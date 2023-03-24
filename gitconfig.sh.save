@@ -1,0 +1,14 @@
+#!/bin/bash/
+#author         :Bolarinwa David
+#copyrights     :nil 
+#contacts       :+1 431 277 1311
+#purpose        :help configure git on a user terminal
+
+#start
+
+sudo yum install git -y 
+
+
+
+
+
